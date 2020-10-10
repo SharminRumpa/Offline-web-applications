@@ -1,0 +1,168 @@
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\Offline web applications.dll.config
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\Offline web applications.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\Offline web applications.pdb
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\csc.exe
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\csc.exe.config
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\csc.rsp
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\csi.exe
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\csi.exe.config
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\csi.rsp
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.AppContext.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Console.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.IO.Compression.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.IO.Pipes.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Security.Claims.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.ValueTuple.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Xml.XPath.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\vbc.exe
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\vbc.exe.config
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\vbc.rsp
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\VBCSCompiler.exe
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\obj\Debug\Offline web applications.csprojAssemblyReference.cache
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\obj\Debug\Offline web applications.csproj.CoreCompileInputs.cache
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\obj\Debug\Offline web applications.csproj.CopyComplete
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\obj\Debug\Offline web applications.dll
+C:\Users\C#\Desktop\Project\Sharmin\new\Offline web applications\Offline web applications\obj\Debug\Offline web applications.pdb
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\Offline web applications.dll.config
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\Offline web applications.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\Offline web applications.pdb
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\csc.exe
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\csc.exe.config
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\csc.rsp
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\csi.exe
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\csi.exe.config
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\csi.rsp
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.AppContext.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Console.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.IO.Compression.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.IO.Pipes.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Claims.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.ValueTuple.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Xml.XPath.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\vbc.exe
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\vbc.exe.config
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\vbc.rsp
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\VBCSCompiler.exe
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\obj\Debug\Offline web applications.csprojAssemblyReference.cache
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\obj\Debug\Offline web applications.csproj.CoreCompileInputs.cache
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\obj\Debug\Offline web applications.csproj.CopyComplete
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\obj\Debug\Offline web applications.dll
+C:\Users\C#\Desktop\Project Final\File\Offline web applications\Offline web applications\obj\Debug\Offline web applications.pdb
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\Offline web applications.dll.config
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\Offline web applications.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\Offline web applications.pdb
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\csc.exe
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\csc.exe.config
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\csc.rsp
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\csi.exe
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\csi.exe.config
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\csi.rsp
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.Managed.Core.targets
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.AppContext.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Collections.Immutable.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Console.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.IO.Compression.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.IO.FileSystem.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.IO.Pipes.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Reflection.Metadata.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Security.AccessControl.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Claims.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Security.Principal.Windows.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.ValueTuple.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Xml.XPath.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\vbc.exe
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\vbc.exe.config
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\vbc.rsp
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\VBCSCompiler.exe
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\roslyn\VBCSCompiler.exe.config
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\obj\Debug\Offline web applications.csprojAssemblyReference.cache
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\obj\Debug\Offline web applications.csproj.CoreCompileInputs.cache
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\obj\Debug\Offline web applications.csproj.CopyComplete
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\obj\Debug\Offline web applications.dll
+E:\IDB\ESAD\Project\GitHub_Upload\Module-6\Project-File\Offline web applications\Offline web applications\obj\Debug\Offline web applications.pdb
